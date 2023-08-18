@@ -11,8 +11,8 @@
 
 - :boom: Увлеклась фронтендом.
 - :boom: Хочу стать менеджером проектов (web)!
-- :mailbox: Мои контакты: [![Static Badge](https://img.shields.io/badge/Telegram-blue)](https://t.me/valeriya8189)
-- ---
+- :boom: Хочу освоить технологии
+---
 
 ### :hammer_and_wrench: Инструменты :
 <div>
@@ -26,6 +26,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Git" **alt="Git" width="40" height="40"/>    
 </div>
+---
+
+### :mailbox: Контакты:
+
+- [![Static Badge](https://img.shields.io/badge/Telegram-blue)](https://t.me/valeriya8189)
+- <valeriya8189@mail.ru>
 ---
 
 ### :fire: Статистика :
